@@ -1,0 +1,143 @@
+No new changes
+No new changes
+No new changes
+No new changes
+No new changes
+No new changes
+New changes detected
+From https://github.com/YogeshAtigre/CDCI
+ * branch            main       -> FETCH_HEAD
+   96cc011..c12c6da  main       -> origin/main
+Updating 96cc011..c12c6da
+Fast-forward
+ CDCI_Demo.html | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required
+Website updated successfully
+No new changes
+No new changes
+No new changes
+No new changes
+No new changes
+No new changes
+No new changes
+No new changes
+No new changes
+No new changes
+No new changes
+New changes detected
+From https://github.com/YogeshAtigre/CDCI
+ * branch            main       -> FETCH_HEAD
+   c12c6da..18c73eb  main       -> origin/main
+Updating c12c6da..18c73eb
+Fast-forward
+ CDCI_Demo.html | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+sending incremental file list
+./
+CDCI_Demo.html
+.git/
+.git/FETCH_HEAD
+.git/ORIG_HEAD
+.git/index
+.git/logs/HEAD
+.git/logs/refs/heads/main
+.git/logs/refs/remotes/origin/
+.git/logs/refs/remotes/origin/main
+.git/objects/
+.git/objects/18/
+.git/objects/18/c73eb012e11ef7333fff0dbb1d9232060676b6
+.git/objects/60/
+.git/objects/60/977fb66bc863ce47198fdfd47adeb49a7d54b8
+.git/objects/82/
+.git/objects/82/aaacce7cda17a40aea39b1d04c96576207660b
+.git/objects/a9/
+.git/objects/a9/531d72c9369472f9475db7357d1ba8335144f4
+.git/objects/c1/
+.git/objects/c1/2c6da65dd03c823d31fd1b1996a758ee544fc2
+.git/objects/fc/
+.git/objects/fc/6fe82daba0fe641eb186d8cce7e29e9574c2c9
+.git/refs/heads/
+.git/refs/heads/main
+.git/refs/remotes/origin/
+.git/refs/remotes/origin/main
+
+sent 8,139 bytes  received 368 bytes  17,014.00 bytes/sec
+total size is 33,486  speedup is 3.94
+Job for nginx.service failed because the control process exited with error code.
+See "systemctl status nginx.service" and "journalctl -xeu nginx.service" for details.
+Website updated successfully
+No new changes
+New changes detected
+From https://github.com/YogeshAtigre/CDCI
+ * branch            main       -> FETCH_HEAD
+   18c73eb..76d468e  main       -> origin/main
+Updating 18c73eb..76d468e
+Fast-forward
+ CDCI_Demo.html | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+sending incremental file list
+./
+CDCI_Demo.html
+.git/
+.git/FETCH_HEAD
+.git/ORIG_HEAD
+.git/index
+.git/logs/HEAD
+.git/logs/refs/heads/main
+.git/logs/refs/remotes/origin/main
+.git/objects/
+.git/objects/60/977fb66bc863ce47198fdfd47adeb49a7d54b8
+.git/objects/76/
+.git/objects/76/d468e24154684142c4927ffeeeefa005cf8e2d
+.git/objects/fc/6fe82daba0fe641eb186d8cce7e29e9574c2c9
+.git/refs/heads/
+.git/refs/heads/main
+.git/refs/remotes/origin/
+.git/refs/remotes/origin/main
+
+sent 7,171 bytes  received 294 bytes  14,930.00 bytes/sec
+total size is 34,841  speedup is 4.67
+Website updated successfully
+No new changes
+No new changes
+No new changes
+No new changes
+No new changes
+No new changes
+No new changes
+No new changes
+No new changes
+No new changes
+No new changes
+No new changes
+No new changes
+No new changes
+No new changes
+No new changes
+No new changes
+No new changes
+No new changes
+No new changes
+No new changes
+No new changes
+No new changes
+No new changes
+No new changes
+No new changes
+No new changes
+No new changes
+No new changes
+No new changes
+No new changes
+No new changes
+No new changes
+No new changes
+No new changes
+No new changes
+No new changes
+No new changes
+No new changes
+No new changes
+No new changes
